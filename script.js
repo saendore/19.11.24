@@ -67,7 +67,7 @@ let array = [
 let result = array.map((obj) => Object.values(obj));
 
 console.log(result);
-
+/// iuhiuhiuhiuiu
 3;
 function logString(...args) {
   const result = args.join(" ") + " "; //replaceAll
